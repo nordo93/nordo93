@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nordo93
-- 👀 I’m interested in anime, manga and nerd projects
-- 🌱 I’m currently learning Bachelor's Degree Programme in Informatics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in 🎮 videogames, 🤓 science and nerd projects
+- 💵⬅️️ i'm working as a systems engineer
+- 🌱 I’m currently also learning Bachelor's Degree Programme in Informatics
+- 💞️ I’m looking to collaborate on nice things
 - 📫 How to reach me orsone93@gmail.com
 
 <!---
